@@ -1,6 +1,6 @@
 ###############################################################################
 * text=auto
-*linguist-detectable=false
+* linguist-detectable=false
 
 # Except the following files
 *.dart linguist-detectable=true
