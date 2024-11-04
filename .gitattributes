@@ -1,5 +1,6 @@
-# Ignore everything
-*
+###############################################################################
+* text=auto
+*linguist-detectable=false
 
 # Except the following files
-!*.dart
+*.dart linguist-detectable=true
